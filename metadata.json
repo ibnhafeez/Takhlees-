@@ -1,0 +1,6 @@
+{
+  "name": "Takhlees Service Quotation",
+  "description": "Interactive quotation builder for Takhlees Business Services, featuring active PDF document preview, service configuration popups, contact capture, and UAE flag-inspired branded style.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
